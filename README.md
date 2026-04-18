@@ -9,9 +9,9 @@
 | Dataset ID | `671775` |
 | Location | Las Vegas-Henderson-North Las Vegas, NV |
 | Category | Restaurants |
-| Full dataset size | 34 records |
-| Free sample size | 3 records (8.82%) |
-| Last export | 2026-04-07T15:58:00.660481+00:00 |
+| Full dataset size | 32 records |
+| Free sample size | 3 records (9.38%) |
+| Last export | 2026-04-14T22:19:16.584557+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-las-vegas-henderson-north-las-vegas-metro-nevada-us-sample-671775/releases/download/sample-latest/beamstation_671775_food_and_drink-us-lasvegashendersonnorthlasvegasnv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
