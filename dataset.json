@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Las Vegas-Henderson-North Las Vegas, NV that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Las Vegas-Henderson-North Las Vegas (Metro), Nevada, US",
-  "export_job_id": "bbf0617f-3e0e-41e8-b8b4-7981957a13c7",
+  "export_job_id": "5d78ff00-efba-4133-b314-d2ebb4521b64",
   "github_org": "Beamstation-Datasets",
   "id_short": 671775,
   "location_name": "Las Vegas-Henderson-North Las Vegas, NV",
   "location_type": "metro",
   "repo_name": "white-space-finder-in-las-vegas-henderson-north-las-vegas-metro-nevada-us-sample-671775",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/671775/beamstation_671775_food_and_drink-us-lasvegashendersonnorthlasvegasnv_SAMPLE_DIST.csv",
-  "sample_pct": 8.82,
+  "sample_pct": 9.38,
   "sample_records": 3,
-  "sample_sha256": "483639bd72a850d95626135461a385200470737d4774f4229f0d7251af9d8887",
-  "sample_size_bytes": 27628,
-  "total_records": 34,
-  "updated_at": "2026-04-07T15:58:00.660481+00:00"
+  "sample_sha256": "dc67848825afd440f6a7c89da2a45af665ac0fd24f90029082728bf5fe4bf56f",
+  "sample_size_bytes": 26572,
+  "total_records": 32,
+  "updated_at": "2026-04-14T22:19:16.584557+00:00"
 }
