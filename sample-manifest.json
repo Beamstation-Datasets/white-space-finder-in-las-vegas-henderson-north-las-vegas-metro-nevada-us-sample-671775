@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b9adfc41-3181-45de-83bd-49037363e115",
+  "export_job_id": "2c94d258-bab7-4fbc-9b8e-6f25839441f1",
   "id_short": 671775,
-  "published_at": "2026-04-22T07:52:17Z",
+  "published_at": "2026-04-29T07:12:27Z",
   "repo_name": "white-space-finder-in-las-vegas-henderson-north-las-vegas-metro-nevada-us-sample-671775",
   "sample_asset_name": "beamstation_671775_food_and_drink-us-lasvegashendersonnorthlasvegasnv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/671775/beamstation_671775_food_and_drink-us-lasvegashendersonnorthlasvegasnv_SAMPLE_DIST.csv",
-  "sample_records": 2,
-  "sample_sha256": "fa256ac4822612bd7bb1b9bec0643428099fa7ed1b1ec8725287d7019e2aba14",
-  "sample_size_bytes": 24273,
-  "total_records": 28
+  "sample_records": 3,
+  "sample_sha256": "c7498b107c8d48d531442bf6e168173462ac8da0f1ed27c85df23add4f5446ed",
+  "sample_size_bytes": 27025,
+  "total_records": 33
 }
